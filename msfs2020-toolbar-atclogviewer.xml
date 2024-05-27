@@ -1,0 +1,7 @@
+<Project Version="2" Name="msfs2020-toolbar-atclogviewer" FolderName="Packages">
+  <OutputDirectory>.</OutputDirectory>
+  <TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
+  <Packages>
+    <Package>PackageDefinitions\msfs2020-toolbar-atclogviewer.xml</Package>
+  </Packages>
+</Project>
