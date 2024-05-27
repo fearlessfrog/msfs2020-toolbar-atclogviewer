@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.0" width="64px" height="64px" viewBox="0 0 300.000000 217.000000" preserveAspectRatio="xMidYMid meet">
+  <g>
+    <rect rx="17" id="svg_139" height="191" width="237" y="13" x="31.5" stroke="#010" fill="#eee"/>
+    <text transform="matrix(1 0 0 1 0 0)" xml:space="preserve" text-anchor="start" font-family="'Arial'" font-size="50" stroke-width="0" id="svg_146" y="85.9996" x="101.2501" stroke="#000" fill="#000000">ATC</text>
+    <text transform="matrix(1 0 0 1 0 0)" xml:space="preserve" text-anchor="start" font-family="'Arial'" font-size="36" stroke-width="0" id="svg_147" y="139.49949" x="60" stroke="#000" fill="#000000">Log Viewer</text>
+  </g>
+</svg>

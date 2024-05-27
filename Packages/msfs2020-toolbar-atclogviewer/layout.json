@@ -1,0 +1,34 @@
+{
+  "content": [
+    {
+      "path": "ContentInfo/msfs2020-toolbar-atclogviewer/Thumbnail.jpg",
+      "size": 13520,
+      "date": 133612142823400701
+    },
+    {
+      "path": "html_ui/icons/toolbar/ICON_TOOLBAR_ATCLOGVIEWER.svg",
+      "size": 706,
+      "date": 133612553803706858
+    },
+    {
+      "path": "html_ui/InGamePanels/atclogviewer/atclogviewer.css",
+      "size": 1508,
+      "date": 133612241398849841
+    },
+    {
+      "path": "html_ui/InGamePanels/atclogviewer/atclogviewer.html",
+      "size": 1803,
+      "date": 133612249878502025
+    },
+    {
+      "path": "html_ui/InGamePanels/atclogviewer/atclogviewer.js",
+      "size": 5835,
+      "date": 133612423561159539
+    },
+    {
+      "path": "InGamePanels/InGamePanel_InputViewer.spb",
+      "size": 691,
+      "date": 133612553977228670
+    }
+  ]
+}
